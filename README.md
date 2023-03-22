@@ -11,9 +11,9 @@
 - Admin Edit, delete, block any user account [DONE]
 
 #### Highlights
-Laravel Version 8.83.*
-Server-side datatable
-Client side validation with parsley
+- Laravel Version 8.83.*
+- Server-side datatable
+- Client side validation with parsley
 
 ### Installation
 - clone this repository
