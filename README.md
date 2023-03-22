@@ -2,7 +2,7 @@
 
 ## Assignment for Arb Software
 #### Date: 22/03/2023
-#### Done by Arijit Hazra
+#### By Arijit Hazra
 
 ### Task
 - User Registration process [DONE]
